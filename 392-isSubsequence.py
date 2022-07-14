@@ -3,9 +3,10 @@
 #  otherwise.
 
 # Example 1:
-
+################################
 # Input: s = "abc", t = "ahbgdc"
 # Output: true
+
 class Solution():
     def isSubsequence(self, s, t):
         """
